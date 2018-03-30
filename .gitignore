@@ -1,0 +1,8 @@
+*.py[co]
+*.sw[po]
+
+tags
+cscope.*
+data/*
+!data/__init__.py
+
